@@ -12,7 +12,7 @@
 ### 💡 About Me
 
 - 🧠 Constantly learning and building with **JavaScript**, **React**, **Laravel**, **Code igniter 4** and **Three.js**
-- 🧪 Exploring creative technologies like **3D rendering**, **AI with Python**, and **interactive web apps**
+- 🧪 Exploring creative technologies like **3D rendering**, **AI**, and **interactive web apps**
 - 🎯 Focused on clean code, scalability, and user experience
 - 🌱 Currently diving deeper into **React Three Fiber** and **MediaPipe AI** projects
 
