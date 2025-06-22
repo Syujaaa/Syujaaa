@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif.gif" width="150" />
+</p>
+
 <h2 align="left">I code with</h2>
 
 ###
