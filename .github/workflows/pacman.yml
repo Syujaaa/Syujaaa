@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate contribution graph SVGs
+      - name: generate acrade-contributions.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
