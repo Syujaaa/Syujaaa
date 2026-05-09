@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" title="Three.js" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
 </p>
 
@@ -89,9 +91,9 @@
 
   <br>
 
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/puzzle-bobble-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/puzzle-bobble-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/puzzle-bobble-contribution-graph.svg">
-  </picture>
+  </picture> -->
 </div>
