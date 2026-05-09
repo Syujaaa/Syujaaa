@@ -20,7 +20,6 @@
 
 ### 💡 About Me
 
-- 🎓 Currently studying **Informatics Engineering** at UNNES.
 - 🧠 Constantly learning and building with **React, Node.js, Laravel**, and **Three.js**.
 - 🧪 Exploring creative technologies like **3D rendering, AI (MediaPipe)**, and **interactive web apps**.
 - 🌱 Currently diving deeper into **React Three Fiber** to build immersive web experiences.
