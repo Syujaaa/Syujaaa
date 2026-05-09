@@ -60,11 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syujaaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+### 📊 GitHub Activity
 
 <br>
 
@@ -74,8 +70,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Syujaaa/Syujaaa/output/snake.svg" alt="Snake animation" />
 </div>
